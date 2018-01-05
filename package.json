@@ -1,7 +1,7 @@
 {
   "name": "jupyter-widget-tunnel",
   "version": "1.0.0",
-  "description": "A widget for optimally pushing many widget open messages in a batch",
+  "description": "A Jupyter notebook/lab extension for optimally pushing many comm open messages in one batch",
   "keywords": [
     "jupyter",
     "jupyterlab",

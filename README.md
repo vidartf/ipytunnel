@@ -5,7 +5,7 @@
 [![codecov](https://codecov.io/gh/vidartf/ipytunnel/branch/master/graph/badge.svg)](https://codecov.io/gh/vidartf/ipytunnel)
 
 
-A widget for optimally pushing many widget open messages in a batch
+A Jupyter notebook/lab extension for optimally pushing many comm open messages in one batch.
 
 ## Installation
 
