@@ -11,8 +11,6 @@ TODO: Add module docstring
 from contextlib import contextmanager
 from ipykernel.comm import Comm
 from ipykernel.kernelbase import Kernel
-from ipykernel.jsonutil import json_clean
-from jupyter_client.adapter import adapt
 
 __protocol_version__ = "1.0.0"
 
